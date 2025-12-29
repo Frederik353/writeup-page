@@ -1,0 +1,13 @@
+/* Make taxonomy term cards wider */
+
+.taxonomy-ctf .badge {
+  background-color: #2563eb;
+}
+
+.taxonomy-topics .badge {
+  background-color: #059669;
+}
+
+.taxonomy-tags .badge {
+  background-color: #374151;
+}

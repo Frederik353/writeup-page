@@ -1,0 +1,25 @@
+languageCode = "en"
+languageName = "English"
+# weight = 1
+# title = "Blowfish"
+# title = "Frederik Tokle Negård"
+title = "Frederik353"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+description = "CTF writeups and technical notes"
+dateFormat = "2 January 2006"
+
+  # [params.author]
+  # headline = "I'm only human"
+  # bio = "A little bit about you"
+
+  [params.author]
+  image = "img/blowfish_logo.png"
+  name = "Frederik Tokle Negård"
+  headline = "CTF writeups •  pwn / crypto / rev / web"
+  # bio = "Security student focusing on cryptography, reverse engineering, and binary exploitation."
+
+

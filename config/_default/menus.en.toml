@@ -1,0 +1,30 @@
+[[main]]
+name = "Pwn"
+pageRef = "topics/pwn"
+weight = 20
+
+[[main]]
+name = "Crypto"
+pageRef = "topics/crypto"
+weight = 30
+
+[[main]]
+name = "Rev"
+pageRef = "topics/rev"
+weight = 40
+
+[[main]]
+name = "Web"
+pageRef = "topics/web"
+weight = 50
+
+[[main]]
+name = "CTFs"
+pageRef = "ctfs"
+weight = 70
+
+[[main]]
+name = "Tags"
+pageRef = "tags"
+weight = 80
+

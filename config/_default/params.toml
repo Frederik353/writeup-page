@@ -1,0 +1,83 @@
+colorScheme = "blowfish"
+defaultAppearance = "dark"
+autoSwitchAppearance = true
+
+enableSearch = true
+enableCodeCopy = true
+
+firebase = { }
+fathomAnalytics = { }
+verification = { }
+
+# defaultFeaturedImage = ""
+
+[header]
+layout = "basic"
+
+
+[footer]
+showCopyright = true
+showThemeAttribution = false
+showAppearanceSwitcher = true
+showScrollToTop = true
+
+[homepage]
+# layout = "profile"
+layout = "page"
+showRecent = true
+showRecentItems = 8
+showMoreLink = true
+showMoreLinkDest = "/topics/"
+cardView = false
+cardViewScreenWidth = false
+layoutBackgroundBlur = false
+
+[article]
+# CV-clean: reduce noise
+showDate = false
+showDateUpdated = false
+showAuthor = false
+
+# prevent image bias
+# showHero = false
+heroStyle = "basic"
+
+showBreadcrumbs = false
+showDraftLabel = false
+showEdit = false
+editAppendPath = true
+seriesOpened = false
+showHeadingAnchors = true
+showPagination = true
+invertPagination = false
+
+showReadingTime = false
+showTableOfContents = true
+showTaxonomies = true
+showAuthorsBadges = false
+showWordCount = false
+showSummary = true
+
+# sharing buttons = noise
+sharingLinks = [ ]
+
+showRelatedContent = false
+
+[list]
+showBreadcrumbs = false
+showSummary = true
+showTableOfContents = false
+showCards = false
+groupByYear = false
+cardView = false
+cardViewScreenWidth = false
+
+[sitemap]
+excludedKinds = [ ]
+
+[taxonomy]
+showTermCount = false
+  [taxonomy.term]
+  paginate = 0
+
+customCSS = ["css/custom.css"]
